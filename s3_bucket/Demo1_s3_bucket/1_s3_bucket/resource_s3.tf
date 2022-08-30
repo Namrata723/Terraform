@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "bucket1" {
-bucket = "vishnu-first-st-bucket"
+bucket = "Namrata-first-st-bucket"
 }
 
 resource "aws_s3_bucket_acl" "example_bucket_acl" {
